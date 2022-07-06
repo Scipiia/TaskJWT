@@ -10,7 +10,3 @@ type User struct {
 	RefreshToken string             `json:"refresh_token"`
 }
 
-//type Tokens struct {
-//	Token        jwt.StandardClaims
-//	RefreshToken []byte
-//}
